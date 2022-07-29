@@ -26,3 +26,10 @@
 ![Screenshot (177)](https://user-images.githubusercontent.com/91481405/181787895-b677ed6a-2a25-4f42-bd0c-0a3e750464ea.png)
 ![Screenshot (179)](https://user-images.githubusercontent.com/91481405/181787905-65eb7670-0907-4086-9529-0889adc631da.png)
 
+Microsoft Azure link -https://witty-wave-0726d2c10.1.azurestaticapps.net
+# Microsoft azure page - static web app  for vigour Project
+![Screenshot (162)](https://user-images.githubusercontent.com/91481405/181788082-0be2ad34-90b0-43b7-925b-51f62983df22.png)
+
+# Microsoft azure page for Resource Manager for vigour Project
+![Screenshot (163)](https://user-images.githubusercontent.com/91481405/181788109-b3c326ea-490a-4b87-8eb2-60bc8759bbb5.png)
+
